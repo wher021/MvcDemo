@@ -1,0 +1,7 @@
+C:\whecqg_vo_RD0054097\MathService1\Client\bin\Debug\Client.exe.config
+C:\whecqg_vo_RD0054097\MathService1\Client\bin\Debug\Client.exe
+C:\whecqg_vo_RD0054097\MathService1\Client\bin\Debug\Client.pdb
+C:\whecqg_vo_RD0054097\MathService1\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\whecqg_vo_RD0054097\MathService1\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\whecqg_vo_RD0054097\MathService1\Client\obj\Debug\Client.exe
+C:\whecqg_vo_RD0054097\MathService1\Client\obj\Debug\Client.pdb
